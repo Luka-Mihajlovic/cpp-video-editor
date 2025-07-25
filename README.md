@@ -27,8 +27,8 @@ The [function] flag specifies the required operation:
 - sepia: Applies a sepia filter to the video
 
 # Examples
-Reverse a video: ./runme input.bin output.bin reverse
-Swap channels 1, 2: ./runme input.bin output.bin swap_channel 1,2
-Clip channel 1 to pixel values between 10 and 100: ./runme input.bin output.bin clip_channel 1 [10,100]
-Scale channel 0 by a factor of 2: ./runme input.bin output.bin scale_channel 0 2
-Apply a sepia filter to the video: ./runme input.bin output.bin sepia
+- Reverse a video: ./runme input.bin output.bin reverse
+- Swap channels 1, 2: ./runme input.bin output.bin swap_channel 1,2
+- Clip channel 1 to pixel values between 10 and 100: ./runme input.bin output.bin clip_channel 1 [10,100]
+- Scale channel 0 by a factor of 2: ./runme input.bin output.bin scale_channel 0 2
+- Apply a sepia filter to the video: ./runme input.bin output.bin sepia
