@@ -1,6 +1,7 @@
 # cpp-video-editor
 Quick and lightweight video editor written in C++, Programming Paradigms coursework for 2024/25
 All content is found in the libFilmMaster2000.cpp file, definitions in the header file libFilmMaster2000.h - These functionalities are imported into the main file main.cpp to be executed based on user input.
+
 The testSuite bash file contains sequences of commands to evaluate efficiency of each possible input and generate the output for those commands. Individual commands may still be tested by running the main.cpp file.
 
 runme.cpp will be created from the makefile, which is to be run in a terminal environment for processing of video frames.
